@@ -1,0 +1,604 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\skinselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skinselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\SkinManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SkinManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\playerappearance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerappearance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmpro_surface.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro_surface.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\finishtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\platformhazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformhazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\platformdisappearing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformdisappearing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\gameplayui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplayui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\deathplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmpro.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmpro_properties.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro_properties.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmpro_mobile.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro_mobile.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sprite.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sprite.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sdf-surface-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-surface-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sdf-surface.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-surface.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile-2-pass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile-2-pass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile masking.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile masking.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sdf ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_sdf overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_bitmap-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_bitmap-custom-atlas.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap-custom-atlas.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\tmp_bitmap.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\shaders\\sdffunctions.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\sdffunctions.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\resources\\linebreaking leading characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\resources\\linebreaking leading characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\textmesh pro\\resources\\linebreaking following characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\resources\\linebreaking following characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kinga stopyra\\hopanddrop\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\SkinManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SkinManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TMPro_Surface.cginc",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.951Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinishTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\FinishTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishTrigger.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\FinishTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:58:41.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUI.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:27:08.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkinManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\SkinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SkinManager.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\SkinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SkinManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:49:11.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerAppearance.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\PlayerAppearance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAppearance.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\PlayerAppearance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAppearance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:12:48.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkinSelectorUI.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\SkinSelectorUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SkinSelectorUI.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\SkinSelectorUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SkinSelectorUI.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T14:56:44.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlatformHazard.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\PlatformHazard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformHazard.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\PlatformHazard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformHazard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:18:50.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeathPlane.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\DeathPlane.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathPlane.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\DeathPlane.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathPlane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:13:20.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:42:46.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlatformDisappearing.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\PlatformDisappearing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformDisappearing.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\PlatformDisappearing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformDisappearing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:19:03.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TMPro_Properties.cginc",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TMPro_Mobile.cginc",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TMPro.cginc",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameplayUI.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\GameplayUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameplayUI.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\GameplayUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameplayUI.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:30:44.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TMP_Sprite.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TMP_SDF-Surface-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TMP_SDF-Surface.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TMP_SDF-Mobile-2-Pass.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TMP_SDF-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TMP_SDF-Mobile SSD.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TMP_SDF-Mobile Overlay.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TMP_SDF-Mobile Masking.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TMP_SDF.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TMP_SDF SSD.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TMP_SDF Overlay.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TMP_Bitmap-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TMP_Bitmap-Custom-Atlas.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:12.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TMP_Bitmap.shader",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:11.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SDFFunctions.hlsl",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T14:28:11.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LineBreaking Leading Characters.txt",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-11T14:28:11.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LineBreaking Following Characters.txt",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-11T14:28:11.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LiberationSans - OFL.txt",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-11T14:28:11.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T12:45:10.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T12:42:13.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T12:41:20.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SkinManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\SkinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SkinManager.cs",
+              "ToolTip": "C:\\Users\\Kinga Stopyra\\HopAndDrop\\Assets\\Scripts\\SkinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SkinManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T14:56:17.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
