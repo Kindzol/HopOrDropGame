@@ -4,15 +4,14 @@ public class SkinManager : MonoBehaviour
 {
     public static SkinManager Instance { get; private set; }
 
-    // Kolory do wyboru
     public Color[] availableColors = new Color[]
     {
         Color.white,
         Color.red,
         Color.blue,
         Color.green,
-        new Color(1f, 0.5f, 0f),   // pomarańczowy
-        new Color(0.5f, 0f, 1f),   // fioletowy
+        new Color(1f, 0.5f, 0f),  
+        new Color(0.5f, 0f, 1f),   
     };
 
     public int selectedColorIndex = 0;

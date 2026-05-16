@@ -8,10 +8,13 @@ public class DeathPlane : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            PlatformDisappearing[] platforms = FindObjectsByType<PlatformDisappearing>(FindObjectsInactive.Include, FindObjectsSortMode.None);
+            foreach (var platform in platforms)
+                platform.ResetPlatform();
+
             if (GameManager.Instance != null)
                 GameManager.Instance.LoseLife();
 
-            // Respawn kulki
             other.transform.position = spawnPoint;
             PlayerController pc = other.GetComponent<PlayerController>();
             if (pc != null)

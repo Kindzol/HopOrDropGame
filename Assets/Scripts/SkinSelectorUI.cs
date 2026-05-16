@@ -3,10 +3,10 @@ using UnityEngine.UI;
 
 public class SkinSelectorUI : MonoBehaviour
 {
-    [Header("Prefab przycisku skórki")]
+    [Header("Skin button prefab")]
     public GameObject skinButtonPrefab;
 
-    [Header("Kontener na przyciski")]
+    [Header("Container for skin buttons")]
     public Transform skinButtonsContainer;
 
     private Button[] buttons;
@@ -47,7 +47,6 @@ public class SkinSelectorUI : MonoBehaviour
     {
         for (int i = 0; i < buttonImages.Length; i++)
         {
-            // Zaznaczony przycisk ma białą obwódkę, reszta normalna
             if (buttons[i] != null)
             {
                 var outline = buttons[i].GetComponent<Outline>();

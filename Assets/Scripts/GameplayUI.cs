@@ -4,18 +4,18 @@ using TMPro;
 
 public class GameplayUI : MonoBehaviour
 {
-    [Header("Życia")]
+    [Header("Lifes")]
     public Image[] lifeIcons;
 
-    [Header("Ekrany")]
+    [Header("Screens")]
     public GameObject gameOverScreen;
     public GameObject levelCompleteScreen;
 
-    [Header("Przyciski Game Over")]
+    [Header("Button Game Over")]
     public Button restartButton;
     public Button mainMenuButtonGameOver;
 
-    [Header("Przyciski Level Complete")]
+    [Header("Button Level Complete")]
     public Button mainMenuButtonComplete;
 
     void Start()

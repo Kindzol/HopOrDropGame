@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlatformDisappearing : MonoBehaviour
 {
-    public float disappearDelay = 1f;
+    public float disappearDelay = 0.5f;
     private bool triggered = false;
 
     void OnCollisionEnter(Collision collision)
@@ -19,7 +19,6 @@ public class PlatformDisappearing : MonoBehaviour
         gameObject.SetActive(false);
     }
 
-    // Resetujemy platformę przy restarcie
     public void ResetPlatform()
     {
         triggered = false;

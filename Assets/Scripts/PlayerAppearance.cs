@@ -4,15 +4,22 @@ public class PlayerAppearance : MonoBehaviour
 {
     private Renderer ballRenderer;
 
-    void Start()
+    void Awake()
     {
         ballRenderer = GetComponent<Renderer>();
+    }
 
+    void Start()
+    {
         if (SkinManager.Instance != null)
         {
             Material mat = new Material(ballRenderer.material);
-            mat.color = SkinManager.Instance.GetSelectedColor();
+            mat.SetColor("_BaseColor", SkinManager.Instance.GetSelectedColor());
             ballRenderer.material = mat;
+        }
+        else
+        {
+            Debug.Log("SkinManager null in PlayerAppearance");
         }
     }
 }

@@ -59,7 +59,6 @@ public class PlayerController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded && canJump)
         {
-            // Zerujemy pionową prędkość przed skokiem — stabilniejszy skok
             rb.linearVelocity = new Vector3(rb.linearVelocity.x, 0f, rb.linearVelocity.z);
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
 
@@ -80,7 +79,6 @@ public class PlayerController : MonoBehaviour
 
     void CheckGrounded()
     {
-        // Raycast w dół ze środka kulki
         isGrounded = Physics.Raycast(
             transform.position,
             Vector3.down,
@@ -91,7 +89,6 @@ public class PlayerController : MonoBehaviour
 
     void ClampSpeed()
     {
-        // Ograniczamy poziomą prędkość, nie ruszamy pionowej (żeby grawitacja działała)
         Vector3 flatVelocity = new Vector3(rb.linearVelocity.x, 0f, rb.linearVelocity.z);
         if (flatVelocity.magnitude > maxSpeed)
         {
@@ -100,7 +97,6 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    // Wywoływane z zewnątrz przy respawnie
     public void ResetVelocity()
     {
         rb.linearVelocity = Vector3.zero;

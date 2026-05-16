@@ -26,8 +26,6 @@ public class AudioManager : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
 
-        // Tworzymy dwa osobne AudioSource na tym samym obiekcie
-        // jeden do muzyki (zapętlonej), drugi do efektów
         musicSource = gameObject.AddComponent<AudioSource>();
         musicSource.loop = true;
         musicSource.volume = 0.5f;
@@ -39,7 +37,6 @@ public class AudioManager : MonoBehaviour
 
     void OnEnable()
     {
-        // Słuchamy zmian stanu gry
         if (GameManager.Instance != null)
             GameManager.Instance.OnStateChanged += HandleStateChanged;
     }
@@ -60,13 +57,21 @@ public class AudioManager : MonoBehaviour
             case GameManager.GameState.Playing:
                 PlayMusic(gameplayMusic);
                 break;
+            case GameManager.GameState.GameOver:
+                musicSource.Stop();
+                PlaySFX(loseLifeSound);
+                break;
+            case GameManager.GameState.LevelComplete:
+                musicSource.Stop();
+                PlaySFX(levelCompleteSound);
+                break;
         }
     }
 
     public void PlayMusic(AudioClip clip)
     {
         if (clip == null) return;
-        if (musicSource.clip == clip) return; // już gra ta sama — nie restartuj
+        if (musicSource.clip == clip) return;
 
         musicSource.clip = clip;
         musicSource.Play();

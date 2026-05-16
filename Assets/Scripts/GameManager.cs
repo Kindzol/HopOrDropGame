@@ -19,7 +19,6 @@ public class GameManager : MonoBehaviour
     public int MaxLives = 3;
     public int CurrentLives { get; private set; }
 
-    // Zdarzenia — inne skrypty mogą się na nie zapisać
     public event System.Action<int> OnLivesChanged;
     public event System.Action<GameState> OnStateChanged;
 
@@ -33,7 +32,7 @@ public class GameManager : MonoBehaviour
 
         Instance = this;
         DontDestroyOnLoad(gameObject);
-        CurrentLives = MaxLives; // tu ustawiamy życia
+        CurrentLives = MaxLives; 
     }
 
     void Start()
