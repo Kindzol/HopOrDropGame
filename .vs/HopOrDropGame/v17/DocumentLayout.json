@@ -3,43 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\Kinga\\HopOrDropGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|C:\\Users\\Kinga\\HopOrDropGame\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\skinselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skinselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\skinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|C:\\Users\\Kinga\\HopOrDropGame\\assets\\scripts\\skinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\playerappearance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|C:\\Users\\Kinga\\HopOrDropGame\\assets\\scripts\\playerappearance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerappearance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\platformmoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|C:\\Users\\Kinga\\HopOrDropGame\\assets\\scripts\\platformmoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformmoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\platformhazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|C:\\Users\\Kinga\\HopOrDropGame\\assets\\scripts\\platformhazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformhazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\platformdisappearing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|C:\\Users\\Kinga\\HopOrDropGame\\assets\\scripts\\platformdisappearing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformdisappearing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|C:\\Users\\Kinga\\HopOrDropGame\\assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\instructionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|C:\\Users\\Kinga\\HopOrDropGame\\assets\\scripts\\instructionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\instructionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|c:\\users\\kinga\\hopordropgame\\assets\\scripts\\gameplayui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|C:\\Users\\Kinga\\HopOrDropGame\\assets\\scripts\\gameplayui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF415C-61CF-B8BC-5E0B-D1A85E270020}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplayui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:54:51.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SkinSelectorUI.cs",
               "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\SkinSelectorUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SkinSelectorUI.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SkinManager.cs",
               "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\SkinManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SkinManager.cs",
@@ -75,25 +92,24 @@
               "RelativeToolTip": "Assets\\Scripts\\SkinManager.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwBsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:36:10.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T14:36:10.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T14:36:03.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PlayerAppearance.cs",
               "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\PlayerAppearance.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAppearance.cs",
@@ -101,12 +117,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerAppearance.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:35:57.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T14:35:57.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlatformMoving.cs",
               "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\PlatformMoving.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformMoving.cs",
@@ -114,12 +129,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlatformMoving.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:35:52.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T14:35:52.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlatformHazard.cs",
               "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\PlatformHazard.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformHazard.cs",
@@ -127,12 +141,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlatformHazard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:35:47.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T14:35:47.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlatformDisappearing.cs",
               "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\PlatformDisappearing.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformDisappearing.cs",
@@ -140,12 +153,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlatformDisappearing.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:35:43.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T14:35:43.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainMenuUI.cs",
               "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\MainMenuUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUI.cs",
@@ -153,12 +165,11 @@
               "RelativeToolTip": "Assets\\Scripts\\MainMenuUI.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:35:35.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T14:35:35.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "InstructionsUI.cs",
               "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\InstructionsUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InstructionsUI.cs",
@@ -166,12 +177,11 @@
               "RelativeToolTip": "Assets\\Scripts\\InstructionsUI.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:35:31.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T14:35:31.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GameplayUI.cs",
               "DocumentMoniker": "C:\\Users\\Kinga\\HopOrDropGame\\Assets\\Scripts\\GameplayUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameplayUI.cs",
@@ -179,8 +189,7 @@
               "RelativeToolTip": "Assets\\Scripts\\GameplayUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:34:27.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T14:34:27.065Z"
             }
           ]
         }

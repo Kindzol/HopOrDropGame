@@ -10,6 +10,9 @@ public class PlayerController : MonoBehaviour
     public float jumpForce = 7f;
     public float jumpCooldown = 0.2f;
 
+    [Header("Braking")]
+    public float brakingForce = 5f;
+
     [Header("Ground detector")]
     public float groundCheckDistance = 0.6f;
     public LayerMask groundLayer;
@@ -53,6 +56,14 @@ public class PlayerController : MonoBehaviour
 
         Vector3 force = new Vector3(horizontal, 0f, vertical) * moveForce;
         rb.AddForce(force, ForceMode.Force);
+
+        
+        if (vertical == 0f && horizontal == 0f)
+        {
+            Vector3 brakeForce = -rb.linearVelocity * brakingForce;
+            brakeForce.y = 0f;
+            rb.AddForce(brakeForce, ForceMode.Force);
+        }
     }
 
     void HandleJump()
